@@ -8,7 +8,7 @@ body p {
   color: white;
 }
 header {
-  width: 80%;
+  width: 90%;
   height: 100px;
   display: flex;
   margin: 0px auto;
@@ -18,7 +18,7 @@ header img {
   height: 100px;
 }
 main {
-  width: 80%;
+  width: 90%;
   margin: 0px auto;
 }
 main h2 {
@@ -34,8 +34,8 @@ main h2 {
   margin-bottom: 30px;
 }
 .test img {
-  height: 100px;
-  width: 200px;
+  height: 150px;
+  width: 250px;
 }
 .test::-webkit-scrollbar {
   display: none;
